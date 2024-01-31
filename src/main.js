@@ -2,7 +2,6 @@
 Mahir Camci
 Modified Rocket Patrol
 it took me about 6 hours
-Mahir Camci
 
  - Create a new enemy Spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (5)
  - Implement a new timing/scoring mechanism that adds time (+1s) to the clock for successful hits and subtracts time (-4)for misses (5)
