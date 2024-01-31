@@ -1,6 +1,6 @@
 /*
 Mahir Camci
-Modified Rocket Patrol
+Rocket Patrol Refactor
 it took me about 6 hours
 
  - Create a new enemy Spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (5)
